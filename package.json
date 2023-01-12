@@ -9,12 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "13.1.1",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "@tldraw/core": "^1.20.3",
+    "@tldraw/tldraw": "^1.26.4",
+    "next": "^11.0.1",
+    "next-pwa": "^5.6.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "eslint": "8.31.0",
-    "eslint-config-next": "13.1.1"
+    "next-transpile-modules": "^8.0.0"
   }
 }
