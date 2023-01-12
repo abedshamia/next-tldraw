@@ -1,6 +1,6 @@
 import React from "react";
 // import dynamic from 'next/dynamic'
-import { TldrawApp, Tldraw } from "@tldraw/tldraw/dist";
+import { Tldraw } from "@tldraw/tldraw";
 
 // const Tldraw = dynamic(() => import('@tldraw/tldraw'), {
 //     ssr: false,
